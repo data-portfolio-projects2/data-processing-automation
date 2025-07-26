@@ -84,3 +84,12 @@ data-processing-automation/
 ├── requirements.txt
 └── .gitignore
 ```
+
+---
+
+### 7. ✅ Next Steps
+
+- Set up local folders and files  
+- Start with `ingest.py` to read CSV  
+- Identify reliable JSON data source for `extract.py`  
+- Create `README.md` to document the project  
