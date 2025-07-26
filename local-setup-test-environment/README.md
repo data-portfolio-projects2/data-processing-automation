@@ -60,4 +60,3 @@ Check that you're using the correct Python version (e.g., Python 3.12+):
 ```bash
 python --version
 ```
-```
