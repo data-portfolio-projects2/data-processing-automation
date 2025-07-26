@@ -10,11 +10,12 @@ Open your terminal (Command Prompt, PowerShell, or your preferred terminal) and 
 
 ```bash
 cd C:/Users/loydt/OneDrive/文档/Project/data-processing-automation
-
-
-Make sure this directory exists. If not, create it first using:
+```
 
 ```bash
+Make sure this directory exists. If not, create it first using:
+
+
 mkdir C:/Users/loydt/OneDrive/文档/Project/data-processing-automation
 cd C:/Users/loydt/OneDrive/文档/Project/data-processing-automation
 ```
