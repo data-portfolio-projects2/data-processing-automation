@@ -66,3 +66,21 @@ Local testing using:
 
 ### 6. 📁 File and Folder Structure
 
+```ini
+data-processing-automation/
+├── data/
+│ └── input.csv
+├── src/
+│ ├── ingest.py
+│ ├── extract.py
+│ ├── transform.py
+│ ├── analyze.py
+│ ├── export.py
+│ └── main.py
+├── output/
+│ └── final_report.xlsx
+├── tests/
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
