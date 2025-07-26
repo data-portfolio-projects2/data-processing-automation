@@ -1,4 +1,3 @@
-```markdown
 ## 🛠️ Local Setup Instructions
 
 This guide walks you through setting up the `data-processing-automation` project locally, including creating the required folder and virtual environment.
@@ -11,7 +10,7 @@ Open your terminal (Command Prompt, PowerShell, or your preferred terminal) and 
 
 ```bash
 cd C:/Users/loydt/OneDrive/文档/Project/data-processing-automation
-```
+
 
 Make sure this directory exists. If not, create it first using:
 
