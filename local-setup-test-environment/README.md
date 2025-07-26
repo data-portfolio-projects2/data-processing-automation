@@ -15,7 +15,6 @@ cd C:/Users/loydt/OneDrive/文档/Project/data-processing-automation
 ```bash
 Make sure this directory exists. If not, create it first using:
 
-
 mkdir C:/Users/loydt/OneDrive/文档/Project/data-processing-automation
 cd C:/Users/loydt/OneDrive/文档/Project/data-processing-automation
 ```
